@@ -1,0 +1,20 @@
+
+.count-container__counter{
+    margin-block-start: 80px;
+}
+.content{
+    margin-inline: 100px;
+}
+.container-title{
+    text-align: center;
+    margin-block-end: 15px;
+}
+
+.count-container__button{
+    margin-block-start: 10px;
+}
+.count-container__count{
+    text-align: center;
+    margin-inline-start: 50px;
+    font-size: 40px;
+}

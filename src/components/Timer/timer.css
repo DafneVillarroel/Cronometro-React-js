@@ -1,0 +1,19 @@
+.timerButton{
+    display: flex;
+    justify-content: center;
+    margin-block-start: 5px;
+}
+.count-container{
+    margin-block-end: 75px;
+}
+
+.alert{
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    box-shadow: 0 0 1em .15em #D50000,
+        0 0 4em 1em #D50000,
+        inset 0 0 .75em .55em #D50000;
+    border-radius: 5px;
+    transition-duration: 1s;
+}
